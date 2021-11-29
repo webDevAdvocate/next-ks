@@ -1,0 +1,7 @@
+{
+    "questions": [
+        {"id": 1, "content": "Who discovered America?"},
+        {"id": 2, "content": "Why I haven't received my letter from Hogwart?"},
+        {"id": 3, "content": "Would woodchuck chuck?"}
+    ]
+}
